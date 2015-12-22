@@ -1,0 +1,17 @@
+---
+title:  "Seattle Broadband Map"
+author: "OTI"
+avatar: "img/authors/wferr.png"
+image: "img/seattle.png"
+date:   2015-09-25 12:12:12
+---
+
+### About
+Using Piecewise -- a platform for querying and aggregating M-Lab data by any geography. The first example is Seattle, Washington in support of their Digital Equity Plan looking at access, infrastructure, literacy, and adoption.
+
+### More Information
+
+- [Website](http://www.seattle.gov/broadband/broadband-map)
+- [Download the raw M-Lab data](https://console.developers.google.com/storage/browser/m-lab/)
+- [Piecewise - Github](https://github.com/opentechinstitute/piecewise/)
+- [bq2geojson - Github](https://github.com/m-lab/bq2geojson)

@@ -1,0 +1,14 @@
+---
+title:  "Ranking Digital Rights"
+author: "RDR"
+avatar: "img/authors/wferr.png"
+image: "img/rdr.png"
+date:   2015-11-01 12:12:12
+---
+
+### About
+The 2015 Ranking Digital Rights Corporate Accountability Index evaluates 16 of the world’s most powerful Internet and telecommunications companies on their public commitments and disclosed policies affecting users’ freedom of expression and privacy.
+
+### More Information
+
+- [Website](https://rankingdigitalrights.org/index2015/)

@@ -1,0 +1,15 @@
+---
+title:  "CONFINE Mapping"
+author: "OTI"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2014-08-01 12:12:12
+---
+
+### About
+Working with open data to analyze local contextual factors (demographics, neighborhood types, etc) that affect the growth of community wireless networks
+
+### More Information
+
+- Report
+- Data

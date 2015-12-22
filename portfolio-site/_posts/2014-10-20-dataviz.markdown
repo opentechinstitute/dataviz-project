@@ -1,0 +1,14 @@
+---
+title:  "DataViz Brownbag Series"
+author: "OTI"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2014-10-01 12:12:12
+---
+
+### About
+An internal brown bag series where New American's bring projects for internal critique, knowledge sharing, brainstorming, and discussion.
+
+### More Information
+
+- [Contact](georgia+dataviz@opentechinstitute.org)

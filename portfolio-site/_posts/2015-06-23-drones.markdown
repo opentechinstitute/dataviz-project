@@ -1,0 +1,17 @@
+---
+title:  "World of Drones: Flights and Regulations"
+author: "ISP/OTI"
+avatar: "img/authors/wferr.png"
+image: "img/drones.png"
+date:   2015-06-23 12:12:12
+---
+
+### About?
+After decades of use by hobbyists and militaries, unmanned aircraft are now proliferating into a wide variety of new applications around the world. These maps describe aspects of that proliferation. New America's primer [Drones and Aerial Observation](http://drones.newamerica.org/primer) discusses the use of drones to promote property rights, human rights, and global development. The tab marked "Flights" shows noteworthy uses of civil drones. The tab marked "Regulations" shows national regulations pertaining to drones, which vary widely from country to country. Click [here](https://docs.google.com/a/opentechinstitute.org/forms/d/1uYz8SzYs_RrGglYPY4Jer0RPnuWmGMSGHfpLOaTe2ok/viewform) to nominate a drone mission for inclusion.
+
+### More Information
+
+- [Website](http://drones.newamerica.org/)
+- [Download the Report](http://drones.newamerica.org/primer/DronesAndAerialObservation.pdf)
+- [Download the Data](https://data.opentechinstitute.org/dataset/world-of-drones)
+- [Github](https://github.com/newamericafoundation/drones/)

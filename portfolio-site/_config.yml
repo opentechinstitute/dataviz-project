@@ -1,0 +1,7 @@
+# Site settings
+title: OTI's DataViz Lab
+description: A Jekyll Powered site for OTI's DataViz Work
+keywords: Modern, DataViz, Data, Visualization
+author: New America
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
